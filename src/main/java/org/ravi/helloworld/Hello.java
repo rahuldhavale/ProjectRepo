@@ -4,7 +4,7 @@ public class Hello {
 	
 	public String displayHelloMessage(String message)
 	{
-		message = "hi";
+		message = "HELLO ALL";
 		return message;
 	}
 
